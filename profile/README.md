@@ -1,12 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+## Who We Are
+We are a group of students from Ariel University who worked on this project as our final assignment. We came together to dive into graph algorithms, aiming to build on and improve existing methods with fresh ideas and teamwork.
 
-**Here are some ideas to get you started:**
+## Our Approach
+In our ongoing efforts to optimize the solutions of the algorithms in the article [Approximability of the Firefighter Problem](https://www.math.uwaterloo.ca/~cswamy/papers/firefighter-journ.pdf), we have focused on improving the existing minbudget algorithms. By applying a local search algorithm, we have been able to significantly enhance the performance and efficiency of these algorithms.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our approach ensures that the resources required to contain and manage the spread of threats are minimized, providing a more effective and budget-conscious solution. This improvement reflects our commitment to advancing the methodologies used in this critical area.
+
